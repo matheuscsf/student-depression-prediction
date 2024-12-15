@@ -11,11 +11,6 @@ Esta pasta contém a **documentação completa** do projeto **"Predição da Dep
    - Inclui as variáveis mais importantes, desempenho do modelo e conclusões finais.
    - Ideal para apresentações e compartilhamento com stakeholders.
 
-2. **Outros documentos** (se aplicável):
-   - **Metodologia Detalhada**: Explicação das etapas realizadas, como pré-processamento, escolha do modelo e tuning.
-   - **Análise Exploratória**: Insights obtidos a partir das visualizações e estatísticas do dataset.
-   - **Intervenções Propostas**: Estratégias baseadas nos resultados do modelo.
-
 ---
 
 ## 🧩 **Objetivo da Documentação**
