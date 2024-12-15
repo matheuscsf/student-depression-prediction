@@ -33,6 +33,8 @@ Esta pasta contém os **notebooks Jupyter** que documentam o passo a passo do pr
          - Relatório de classificação final.
       - Interpretação dos resultados e principais conclusões.
 
+4. **`saude_mental_estudantes.ipynb`** - ✅​ **Notebook completo**
+
 ---
 
 ## 🚀 **Como Executar os Notebooks**
