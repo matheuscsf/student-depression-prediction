@@ -1,0 +1,33 @@
+# Arquivos de ambiente virtual
+venv/
+*.pyc
+__pycache__/
+*.pyo
+*.pyd
+
+# Arquivos gerados pelo Jupyter Notebook
+.ipynb_checkpoints/
+
+# Arquivos de cache e logs
+*.log
+*.cache
+
+# Arquivos de dados sensíveis ou grandes
+data/*.csv
+data/*.xlsx
+data/*.json
+
+# Arquivos gerados por relatórios e gráficos
+reports/*.png
+reports/*.pdf
+
+# Arquivos de configuração locais
+.env
+.DS_Store
+.idea/
+.vscode/
+
+# Outros arquivos temporários
+*.tmp
+*.bak
+*.swp
