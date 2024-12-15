@@ -1,0 +1,19 @@
+# Pacotes essenciais para análise de dados e aprendizado de máquina
+pandas==1.5.3           # Manipulação de dados
+numpy==1.23.5           # Operações numéricas
+matplotlib==3.6.2       # Visualização de dados
+seaborn==0.12.1         # Visualizações avançadas
+scikit-learn==1.2.1     # Modelagem e avaliação
+
+# Para notebooks Jupyter
+jupyter==1.0.0          # Ambiente de desenvolvimento para notebooks
+
+# Para manipulação de arquivos e gráficos
+joblib==1.2.0           # Salvamento e carregamento de modelos
+pipreqs==0.4.11         # Para gerar automaticamente requirements.txt
+
+# Para visualizações interativas opcionais (se necessário)
+plotly==5.11.0          # Visualizações interativas
+
+# Ferramentas adicionais para boa prática
+ipykernel==6.19.2       # Kernel do Jupyter
